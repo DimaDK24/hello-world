@@ -1,2 +1,3 @@
 # hello-world
 My first github project!
+Hi, GitHub, my name's Dima. I don't know what to write in this file more...
